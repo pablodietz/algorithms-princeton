@@ -1,0 +1,3 @@
+#!/usr/bin/bash
+
+java -cp .:../lib/algs4.jar $@
