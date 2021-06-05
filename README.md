@@ -1,2 +1,2 @@
 # algorithms-princeton
-Programming Assignments from Princeton University Algorithms Course
+Programming assignments from Princeton University algorithms course
