@@ -11,4 +11,4 @@ Computer vision involves analyzing patterns in visual images and reconstructing 
 * **Specs:** https://coursera.cs.princeton.edu/algs4/assignments/collinear/specification.php
 * **FAQ:** https://coursera.cs.princeton.edu/algs4/assignments/collinear/faq.php
 * **Course:** https://www.coursera.org/learn/algorithms-part1
-* **algs4.jar source code and Javadoc** https://algs4.cs.princeton.edu/code/
+* **algs4.jar source code and Javadoc:** https://algs4.cs.princeton.edu/code/
