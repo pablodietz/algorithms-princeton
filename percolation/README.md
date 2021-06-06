@@ -25,3 +25,8 @@ In a famous scientific problem, researchers are interested in the following ques
 
 When n is sufficiently large, there is a threshold value p* such that when p < p* a random n-by-n grid almost never percolates, and when p > p*, a random n-by-n grid almost always percolates. No mathematical solution for determining the percolation threshold p* has yet been derived. Your task is to write a computer program to estimate p*.
 
+## References
+* **Specs:** https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php
+* **FAQ:** https://coursera.cs.princeton.edu/algs4/assignments/percolation/faq.php
+* **Course:** https://www.coursera.org/learn/algorithms-part1
+* **algs4.jar source code and Javadoc** https://algs4.cs.princeton.edu/code/
