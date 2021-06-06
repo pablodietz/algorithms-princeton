@@ -1,5 +1,3 @@
-# 8 Puzzle / Slider Puzzle
-
 <p align="center">
   <img height="300" src="images/logo.png">
 </p>
