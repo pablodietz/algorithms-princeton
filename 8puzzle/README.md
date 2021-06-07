@@ -1,5 +1,3 @@
-# 8 Puzzle / Slider Puzzle
-
 <p align="center">
   <img height="300" src="images/logo.png">
 </p>
@@ -24,4 +22,4 @@ To solve the puzzle from a given search node on the priority queue, the total nu
 * **Specs:** https://coursera.cs.princeton.edu/algs4/assignments/8puzzle/specification.php
 * **FAQ:** https://coursera.cs.princeton.edu/algs4/assignments/8puzzle/faq.php
 * **Course:** https://www.coursera.org/learn/algorithms-part1
-* **algs4.jar source code and Javadoc** https://algs4.cs.princeton.edu/code/
+* **algs4.jar source code and Javadoc:** https://algs4.cs.princeton.edu/code/

@@ -1,5 +1,3 @@
-# KdTree
-
 <p align="center">
   <img height="300" src="images/logo.png">
 </p>
@@ -30,4 +28,4 @@ Nearest-neighbor search. To find a closest point to a given query point, start a
 * **Specs:** https://coursera.cs.princeton.edu/algs4/assignments/kdtree/specification.php
 * **FAQ:** https://coursera.cs.princeton.edu/algs4/assignments/kdtree/faq.php
 * **Course:** https://www.coursera.org/learn/algorithms-part1
-* **algs4.jar source code and Javadoc** https://algs4.cs.princeton.edu/code/
+* **algs4.jar source code and Javadoc:** https://algs4.cs.princeton.edu/code/
